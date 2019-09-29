@@ -1,0 +1,2 @@
+userNameDev = "admindev"
+userNameTomcat = "admintomcat"
